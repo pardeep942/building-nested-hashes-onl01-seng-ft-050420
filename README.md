@@ -4,7 +4,7 @@
 
 1. Build a nested hash.
 2. Access and manipulate data in nested hashes.
-
+https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/data-structures/building-nested-hashes-lab#
 ## Code Along Challenge: Epic Tragedy
 
 You're 16 years old and back in high school English class. Luckily for us, our teacher is kind of lazy and we get to watch the *Romeo and Juliet* movie from the '90s starring Leonardo DiCaprio and Claire Danes.
